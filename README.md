@@ -5,8 +5,7 @@ Here are some ideas to get you started:
 - 🏦 I’m currently working on Ustore
 - 💻 I’m currently learning Python and Kotlin 
 - 💬 Ask me about Node.JS 
-- 📫 How to reach me: filipeferreiramariz@outlook.com
-- ⚡ Fun fact: 
+
 
 <div>
   <a href="https://github.com/filipe-mariz">
@@ -38,6 +37,8 @@ Here are some ideas to get you started:
 #### Network
 <div>
   <a href="https://www.linkedin.com/in/filipe-mariz-68675b196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="filipeferreiramariz@outlook.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="filipeferreiramariz@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
