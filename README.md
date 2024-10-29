@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🏦 I’m currently working on Ustore
-- 💻 I’m currently learning Python and Kotlin 
+- 🏦 I’m currently working on IBM
+- 💻 I’m currently learning Machine Learning
 - 💬 Ask me about Node.JS 
 
 
